@@ -12,5 +12,5 @@ Atualizações para substitutiva:
 -Listagem do banco de serviços e de seus dados ao usuário logado.
 
 Será enviado por e-mail um link com a apresentação do sistema e banco de dados.
-Não consegui: implementar a conexão de um prestador com o serviço, listar os serviços aceitos pelos prestadores, adicionar uma imagem do serviço.
+Não consegui: implementar a conexão de um prestador com o serviço, listar os serviços aceitos pelos prestadores, adicionar uma imagem do serviço pequena alteração.
 
